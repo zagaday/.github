@@ -6,14 +6,14 @@
 
 <p align="center">
   <b>Party word games, personalized by AI.</b><br/>
-  Ігри для компаній, у яких набори слів створює AI — під вашу вечірку, ваш офіс, ваших друзів.
+  Word decks generated for <i>your</i> party, <i>your</i> office, <i>your</i> friends — by AI, playable offline forever.
 </p>
 
 ---
 
 ## 🎯 What we're building
 
-**Tik Tak Talk** — an offline-first party word game (explain-the-word, team vs team) with two things no competitor has:
+**Zagaday** — an offline-first party word game (explain-the-word, team vs team) with two things no competitor has:
 
 1. **AI-generated decks for *your* crowd.** Type "Olia's bachelorette party", "IT company offsite" or "dorm floor 3" — get a deck of 40–60 words that's actually about *you*. Generated once, stored locally, playable offline forever.
 2. **Design where the word is the interface.** One word fills the screen. Typography *is* the product. Risograph-print aesthetic — saturated inks, layer offset, paper grain — instead of the gradient-cartoon look every clone ships with.

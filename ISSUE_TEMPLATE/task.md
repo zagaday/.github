@@ -1,24 +1,24 @@
 ---
-name: "✅ Таск"
-about: "Конкретна одиниця роботи в межах епіка"
+name: "✅ Task"
+about: "A concrete unit of work within an epic"
 title: ""
 labels: ["task"]
 ---
 
-## Контекст
-<!-- Чому це потрібно, посилання на епік -->
+## Context
+<!-- Why this is needed; link to the epic -->
 
-## Задача
-<!-- Що саме зробити -->
+## Task
+<!-- What exactly to do -->
 
-## Кроки
+## Steps
 1.
 
-## Технічні деталі
-<!-- Стек, моделі даних, обмеження -->
+## Technical details
+<!-- Stack, data models, constraints -->
 
-## Критерії приймання
+## Acceptance criteria
 - [ ]
 
-## Епік
+## Epic
 #

@@ -1,20 +1,20 @@
 ---
-name: "🎯 Епік"
-about: "Великий блок роботи, що об'єднує таски"
+name: "🎯 Epic"
+about: "A large body of work grouping related tasks"
 title: "[EPIC] "
 labels: ["epic"]
 ---
 
-## Мета
-<!-- Що буде можливим, коли епік закритий -->
+## Goal
+<!-- What becomes possible once this epic is closed -->
 
-## Чому це важливо
-<!-- Зв'язок зі стратегією продукту -->
+## Why it matters
+<!-- Link to product strategy -->
 
-## Обсяг
-<!-- Що входить і що НЕ входить -->
+## Scope
+<!-- What's in and what's explicitly OUT -->
 
-## Таски
+## Tasks
 - [ ] #
 
-## Критерій завершення епіка
+## Definition of done

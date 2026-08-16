@@ -1,15 +1,15 @@
 ---
-name: "🐛 Баг"
-about: "Щось працює не так"
+name: "🐛 Bug report"
+about: "Something isn't working"
 labels: ["bug"]
 ---
 
-## Що сталося
+## What happened
 
-## Як відтворити
+## Steps to reproduce
 1.
 
-## Очікувана поведінка
+## Expected behavior
 
-## Середовище
-<!-- Пристрій, версія ОС, версія застосунку -->
+## Environment
+<!-- Device, OS version, app version -->

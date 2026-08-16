@@ -1,7 +1,7 @@
 # Security Policy
 
-Якщо ви знайшли вразливість у застосунках або інфраструктурі Zagaday (зокрема в AI-проксі), напишіть на **a.kogut01@gmail.com** із темою `[SECURITY]`.
+If you have found a vulnerability in Zagaday apps or infrastructure (including the AI proxy), email **a.kogut01@gmail.com** with the subject `[SECURITY]`.
 
-- Не розкривайте вразливість публічно до фіксу.
-- Ми відповідаємо протягом 72 годин.
-- Дякуємо за відповідальне розкриття 🙏
+- Please do not disclose the vulnerability publicly before a fix is released.
+- We respond within 72 hours.
+- Thank you for responsible disclosure 🙏

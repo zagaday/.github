@@ -1,11 +1,11 @@
 # Contributing
 
-Це пропрієтарний продукт Zagaday — зовнішні контриб'юції наразі не приймаються.
+Zagaday is a proprietary product — external contributions are not accepted at this time.
 
-## Для команди
+## For the team
 
-- Робота планується через Issues: епіки (`epic`) → таски (`task`), майлстоуни = етапи дорожньої карти.
-- Гілки: `feature/<issue-номер>-коротка-назва`, PR обов'язковий навіть для соло-роботи — це релізна історія.
-- Коміти: [Conventional Commits](https://www.conventionalcommits.org/) (`feat:`, `fix:`, `docs:`, `chore:`).
-- Кожен PR посилається на issue (`Closes #N`).
-- Джерело правди по продукту: `ios-app/docs/PRODUCT_SPEC.md`.
+- Work is planned through Issues: epics (`epic`) → tasks (`task`); milestones = roadmap stages.
+- Branches: `feature/<issue-number>-short-name`. A PR is required even for solo work — it is the release history.
+- Commits follow [Conventional Commits](https://www.conventionalcommits.org/) (`feat:`, `fix:`, `docs:`, `chore:`).
+- Every PR references an issue (`Closes #N`).
+- Product source of truth: `ios-app/docs/PRODUCT_SPEC.md`.
