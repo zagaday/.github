@@ -28,6 +28,9 @@ And one thing we refuse to do: **no ads mid-round, ever.** A party game interrup
 | [`android-app`](https://github.com/zagaday/android-app) | Android app — Kotlin, Jetpack Compose, Room | 📋 Planned (after iOS ships) |
 | [`web-app`](https://github.com/zagaday/web-app) | Landing page, legal & support site | 📋 Planned |
 | [`backend`](https://github.com/zagaday/backend) | Python/FastAPI service — AI deck generation, entitlements, moderation | 📋 Planned (needed from stage 3) |
+| [`docs`](https://github.com/zagaday/docs) | 📖 **Product documentation** — spec, design system, content guidelines | ✅ Source of truth |
+
+> **New here?** Start with [`docs`](https://github.com/zagaday/docs) — the platform-neutral product specification. Every code repository plans its own work in its own independent GitHub Project.
 
 ## 🗺 Roadmap
 
