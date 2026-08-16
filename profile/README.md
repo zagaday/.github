@@ -27,6 +27,7 @@ And one thing we refuse to do: **no ads mid-round, ever.** A party game interrup
 | [`ios-app`](https://github.com/zagaday/ios-app) | iOS app — Swift 6, SwiftUI, SwiftData, StoreKit 2 | 🚧 Planning → MVP |
 | [`android-app`](https://github.com/zagaday/android-app) | Android app — Kotlin, Jetpack Compose, Room | 📋 Planned (after iOS ships) |
 | [`web-app`](https://github.com/zagaday/web-app) | Landing page, legal & support site | 📋 Planned |
+| [`backend`](https://github.com/zagaday/backend) | Python/FastAPI service — AI deck generation, entitlements, moderation | 📋 Planned (needed from stage 3) |
 
 ## 🗺 Roadmap
 
